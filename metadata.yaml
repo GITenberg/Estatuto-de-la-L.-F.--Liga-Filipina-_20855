@@ -17,6 +17,8 @@ creator:
     - http://www.joserizal.ph/
     - http://en.wikipedia.org/wiki/José_Rizal
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20855#Estatuto-de-la-L.-F.--Liga-Filipina-
 gutenberg_issued: '2007-03-20'
 gutenberg_type: Text
 identifiers:
